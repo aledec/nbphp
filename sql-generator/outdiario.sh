@@ -1,5 +1,9 @@
 #!/usr/bin/ksh
 
+#######################################################################################################
+# VARIABLES AVAILABLE FOR CHANGE
+#######################################################################################################
+
 #### Global variables
 LASTEXECFILE=$0.lastexec
 EXECDATE=$(date +%m/%d/%Y" "%H:%M:%S)
@@ -14,10 +18,10 @@ fi
 DATE=$(date +%Y%m%d%H%M%S) # used to save files with date format
 
 #### FTPHOST
-HOST=''
-PORT=''
-USER=''
-PASS=''
+FTPHOST=''
+FTPPORT=''
+FTPUSER=''
+FTPPASS=''
 FTPLOG=$0.ftp.log
 
 #######################################################################################################

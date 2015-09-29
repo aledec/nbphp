@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+#flotr2_pie_client_graph_os { 
+  width: 680px;
+  height: 440px;
+  margin: 24px auto;
+}
+#flotr2_pie_policy_type_like { 
+  width: 680px;
+  height: 440px;
+  margin: 24px auto;
+}
+#flotr2_pie_policy_active { 
+  width: 340px;
+  height: 220px;
+  margin: 24px auto;
+}
+#flotr2_images_graph_consume_7d {
+  width: 680px;
+  height: 440px;
+  margin: 24px auto;
+}
+#editor-render-0 {
+  width: 800px; 
+  height: 400px; 
+  margin: 8px auto;
+}
+#container {
+  width: 800px; 
+  height: 400px; 
+  margin: 8px auto;
+}
+#images_graph_consume_total_all_daily {
+  width: 800px; 
+  height: 400px; 
+  margin: 8px auto;	
+}
+#images_graph_consume_total_all_hour {
+  width: 800px; 
+  height: 400px; 
+  margin: 8px auto;	
+}
+#images_graph_consume_1d {
+  width: 800px; 
+  height: 400px; 
+  margin: 8px auto;	
+}
+.flotr-mouse-value {
+    opacity: 1 !important;
+    background-color: #FFFFFF !important;
+    color: #666 !important;
+    font-size: 12px;
+    border: 1px solid #778b9f;
+    font-weight: 600;
+}

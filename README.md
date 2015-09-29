@@ -7,10 +7,11 @@ Provides a friendly access to netbackup common backup data, such as:
 - Reports Utils
 - Statistics Graphs
 - Export options
+- Backup Search options
 
 ## Requirements
-- Apache/lighthttpd 
-- Mysql Server
+- Apache/lighthttpd - can be used in separate server
+- Mysql Server with ftp/scp account to copy files if remotely
 - Netbackup media server running under HP-UX / Linux
  
 ## Installation
@@ -53,6 +54,7 @@ This options provides the following reports:
 * Errors
  * List Errors
  * List Backups
+Other less important options are also available
  
 ### Examples
 - Errors -> List Errors option

@@ -17,15 +17,17 @@ Provides a friendly access to netbackup common backup data, such as:
 ### Web
 - Configure according your web server in order to provide the correct url for the site
 - Copy the content of the php directory into your new web server.
+
 ### Script
-- See sql-generator/ directory
+- Check sql-generator/ directory
 
 ## Configuration
 ### Web
 - Modify your src/config-db.php file with your database files
 - Import the sql/tables.sql into your database
+
 ### Script
-- See sql-generator/ directory
+- Check sql-generator/ directory
 
 ## Use
 ### Default Search option

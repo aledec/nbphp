@@ -1,4 +1,0 @@
-AuthUserFile E:\xampp\password\htpasswd.nbphp.txt
-AuthType Basic
-AuthName "Ingrese un usuario valido para acceder a la interfaz"
-Require valid-user
